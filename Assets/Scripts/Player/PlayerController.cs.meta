@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cdf6b22840855064fbfb1c5ccff6c4ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - bulletParent: {instanceID: 0}
+  - blood: {fileID: 5757910338871181412, guid: 9833deb9b62d6414bb4a87e3b3de7e74, type: 3}
+  - walkSFX: {instanceID: 0}
+  - jumpSFX: {instanceID: 0}
+  - landSFX: {instanceID: 0}
+  - shootSFX: {instanceID: 0}
+  - deathSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

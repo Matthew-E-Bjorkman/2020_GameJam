@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efb02084d39827c48b175ba6d1534d10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BloodSpatter: {fileID: 5757910338871181412, guid: 9833deb9b62d6414bb4a87e3b3de7e74,
+      type: 3}
+  - ParticleSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
